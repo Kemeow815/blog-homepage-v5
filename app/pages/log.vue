@@ -4,6 +4,7 @@ import { ZhiluIcon, ZhiluIconOld } from '#components'
 useHead({ title: '日志' })
 definePageMeta({ headerText: '互联网上的活动记录' })
 const timeline = {
+    '2025-03-20': '使用纸鹿的主页',
     '2024-08-11': '博客：使用 Nuxt Content 重构',
     '2024-06-01': '个人网站：使用 Nuxt.js 重构',
     '2024-02-17': '个人网站：使用 VitePress 重写',
@@ -17,7 +18,7 @@ const timeline = {
     '2019-03-01': h('span', ['Logo：', h(ZhiluIcon)]),
     '2019-02-06': 'Slogan：纸鹿山行云潜日，日潜云行山路止',
     '2017-09-08': h('span', ['Logo：', h(ZhiluIconOld), ' PaperyDeer']),
-    '2016-06-28': '开始使用昵称 <code>纸鹿君_L33Z22L11</code> 在互联网上活跃',
+    '2016-06-28': '开始使用昵称 <code>克喵爱吃卤面</code> 在互联网上活跃',
 }
 </script>
 
