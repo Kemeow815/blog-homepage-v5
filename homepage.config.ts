@@ -3,22 +3,22 @@
 import type { NitroConfig } from 'nitropack'
 
 const author = {
-    name: '纸鹿本鹿',
-    avatar: 'https://wsrv.nl/?url=github.com/L33Z22L11.png',
-    email: 'hi@zhilu.cyou',
-    homepage: 'https://www.zhilu.cyou/',
+    name: '克喵爱吃卤面',
+    avatar: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png',
+    email: 'kemiao@kmblog.icu',
+    homepage: 'https://blog.kemiao.online/',
 }
 
 const homepageConfig = {
-    title: '纸鹿 (@L33Z22L11)',
-    subtitle: '纸鹿至麓不知路，支炉制露不止漉',
-    description: '纸鹿（也称作纸鹿本鹿、Zhilu、L33Z22L11）是一名开源爱好者，这是纸鹿的个人主页。他有一个博客「纸鹿摸鱼处」，记录了他在生活和技术学习中的点滴经历，充满启发与思考。他的个人主页和博客界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
+    title: '克喵爱吃卤面 (@Kemeow815)',
+    subtitle: '每一段旅行都有终点~',
+    description: '这是克喵爱吃卤面的主页，致力于分享资源和生活，欢迎访问~',
     author,
     language: 'zh-CN',
     timezone: 'Asia/Shanghai',
-    favicon: '/icon.png',
-    url: 'https://www.zhilu.cyou/',
-    blogAtom: 'https://blog.zhilu.cyou/atom.xml',
+    favicon: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png',
+    url: 'https://blog.kemiao.online/',
+    blogAtom: 'https://blog-v3.kemeow.top/atom.xml',
 }
 
 // https://nitro.build/config#routerules

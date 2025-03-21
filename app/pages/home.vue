@@ -18,10 +18,10 @@ const appConfig = useAppConfig()
                 {{ appConfig.subtitle }}
             </p>
             <div>
-                <ZButton icon="ph:files-duotone" to="https://blog.zhilu.cyou/" primary>
+                <ZButton icon="ph:files-duotone" to="https://blog-v3.kemeow.top/" primary>
                     博客
                 </ZButton>
-                <ZButton icon="ph:github-logo-duotone" to="https://github.com/L33Z22L11">
+                <ZButton icon="ph:github-logo-duotone" to="https://github.com/Kemeow815">
                     GitHub
                 </ZButton>
             </div>

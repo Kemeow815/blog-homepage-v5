@@ -13,7 +13,7 @@ export default defineNuxtConfig({
             ],
             meta: [
                 { name: 'author', content: `${homepageConfig.author.name} <${homepageConfig.author.email}>` },
-                { 'name': 'generator', 'data-github-repo': 'https://github.com/L33Z22L11/homepage-v5' },
+                { 'name': 'generator', 'data-github-repo': 'https://github.com/Kemeow815/blog-homepage-v5' },
             ],
             templateParams: {
                 separator: '|',
@@ -22,7 +22,7 @@ export default defineNuxtConfig({
         },
     },
 
-    compatibilityDate: '2024-08-03',
+    compatibilityDate: '2025-03-21',
 
     components: [
         { path: '~/components/partial', prefix: 'Z' },
