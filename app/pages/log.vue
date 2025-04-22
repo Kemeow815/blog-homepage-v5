@@ -4,6 +4,7 @@ import { ZhiluIcon, ZhiluIconOld } from '#components'
 useHead({ title: '日志' })
 definePageMeta({ headerText: '互联网上的活动记录' })
 const timeline = {
+    '2025-04-22': '修改一下站点页面',
     '2025-03-21': '个人主页配置修改部分',
     '2025-03-20 18:00:00': '使用纸鹿的主页',
     // '2024-08-11': '博客：使用 Nuxt Content 重构',

@@ -4,9 +4,9 @@ import type { NitroConfig } from 'nitropack'
 
 const author = {
     name: '克喵爱吃卤面',
-    avatar: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png',
-    email: 'kemiao@kmblog.icu',
-    homepage: 'https://blog.kemiao.online/',
+    avatar: 'https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png',
+    email: 'kemiaofx@163.com',
+    homepage: 'https://www.kemiao.online/',
 }
 
 const homepageConfig = {
