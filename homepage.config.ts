@@ -4,8 +4,8 @@ import type { NitroConfig } from 'nitropack'
 
 const author = {
     name: '克喵爱吃卤面',
-    avatar: 'https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png',
-    email: 'kemiaofx@163.com',
+    avatar: 'https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256',
+    email: 'me@kemiaosw.top',
     homepage: 'https://www.kemiao.online/',
 }
 
@@ -16,8 +16,8 @@ const homepageConfig = {
     author,
     language: 'zh-CN',
     timezone: 'Asia/Shanghai',
-    favicon: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png',
-    url: 'https://blog.kemiao.online/',
+    favicon: 'https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256',
+    url: 'https://www.kemiao.online/',
     blogAtom: 'https://blog-v3.kemeow.top/atom.xml',
 }
 

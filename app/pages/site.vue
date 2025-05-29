@@ -98,7 +98,7 @@ const toolSites: Array<CardProps> = [
 </script>
 
 <template>
-    <ZTitle>工具类站点</ZTitle>
+    <ZTitle>克喵的站点</ZTitle>
     <ZCardList :data-list="toolSites" />
     <!-- // <ZTitle>组织门户</ZTitle>
     // <ZCardList :data-list="orgSites" /> -->

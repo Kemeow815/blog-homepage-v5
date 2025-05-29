@@ -28,7 +28,7 @@ export default defineAppConfig({
         {
             title: '社交',
             items: [
-                // { icon: 'basil:qq-outline', text: '群: 169994096', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd', external: true },
+                { icon: 'basil:qq-outline', text: '克喵爱吃卤面', url: 'https://qm.qq.com/q/m8FW8Y6TkY', external: true },
                 { icon: 'ph:github-logo-duotone', text: 'Github', url: 'https://github.com/Kemeow815', external: true },
                 { icon: 'ph:telegram-logo-duotone', text: 'Telegram', url: 'https://t.me/KemiaoJun', external: true },
                 { icon: 'ph:twitter-logo-duotone', text: 'Twitter', url: 'https://twitter.com/kemiaosw', external: true },
